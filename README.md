@@ -1,4 +1,6 @@
-# Dockerized Volafile Scraper
+# Volafile Scraper
+
+Python based Scraper to Download files from a Volafile Room
 
 Based on the [Python Volafile Downloader](https://github.com/kadranel/python-volafile-downloader)
 
